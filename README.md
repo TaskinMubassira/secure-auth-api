@@ -1,5 +1,7 @@
 # 🛡️ Secure Auth API
 
+[![tests](https://github.com/TaskinMubassira/secure-auth-api/actions/workflows/tests.yml/badge.svg)](https://github.com/TaskinMubassira/secure-auth-api/actions/workflows/tests.yml)
+
 A small but carefully built **authentication API** in Python (FastAPI). It shows how to do sign-up and login the safe way:
 hashed passwords, short-lived JWT tokens, rate limiting, account lockout and protection against user enumeration.
 
